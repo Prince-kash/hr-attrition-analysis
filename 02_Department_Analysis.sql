@@ -12,6 +12,7 @@ order by attrition_rate desc;
 -- Research & Development
 -- Which department has biggest retention problem?
 -- Human Resources
+
 -- Q7. Attrition by job role
 Select 
 JobRole,
@@ -23,6 +24,7 @@ group by JobRole
 order by attrition_rate desc;
 -- Which job role loses most people?
 -- Laboratory Technician
+
 -- Q8. Attrition by education field
 Select 
 EducationField,
@@ -34,6 +36,7 @@ group by EducationField
 order by attrition_rate desc;
 -- Does education background affect attrition?
 -- Life Sciences
+
 -- Q9. Department wise average salary
 Select 
 Department,
