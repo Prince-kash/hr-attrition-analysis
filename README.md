@@ -76,19 +76,10 @@ WHY employees are leaving and WHO is most at risk.
 ![Risk Analysis](page5_risk_analysis.png)
 
 ## Project Structure
-hr-attrition-analysis/
-│
-├── README.md
-├── queries/
-│   ├── 01_attrition_overview.sql
-│   ├── 02_department_analysis.sql
-│   ├── 03_salary_analysis.sql
-│   ├── 04_worklife_analysis.sql
-│   └── 05_advanced_analytics.sql
-├── exports/
-│   └── (CSV files)
-└── dashboard/
-    └── (Power BI screenshots)
+- **queries/** — All 21 SQL query files
+- **exports/** — CSV files exported from MySQL  
+- **dashboard/** — Power BI screenshots
+- **README.md** — Project documentation
 
 
 ## Author
