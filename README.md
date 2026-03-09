@@ -76,7 +76,7 @@ WHY employees are leaving and WHO is most at risk.
 ![Risk Analysis](page5_risk_analysis.png)
 
 ## Project Structure
-- **queries/** — All 21 SQL query files
+- **queries/** — All 22 SQL query files
 - **exports/** — CSV files exported from MySQL  
 - **dashboard/** — Power BI screenshots
 - **README.md** — Project documentation
